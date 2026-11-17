@@ -170,7 +170,7 @@ public final class AdService {
     Ad watch =
         Ad.newBuilder()
             .setRedirectUrl("/product/1YMWWN1N4O")
-            .setText("Watch for sale. Buy one, get second kit for free")
+            .setText("Watch for sale. Buy two, get a third kit for free!")
             .build();
     Ad mug =
         Ad.newBuilder()
