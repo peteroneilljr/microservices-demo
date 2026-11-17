@@ -175,7 +175,7 @@ public final class AdService {
     Ad mug =
         Ad.newBuilder()
             .setRedirectUrl("/product/6E92ZMYYFZ")
-            .setText("Mug for sale. Buy two, get third one for free")
+            .setText("Mug for sale. Buy nine, get six for free")
             .build();
     Ad loafers =
         Ad.newBuilder()
